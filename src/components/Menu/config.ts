@@ -36,8 +36,8 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
         href: 'https://bcharity-net.github.io/GiveSwap/#/add/0x1078a9280BDcF616D9eFb687D5A44Af4264fb923',
       },
       {
-        label: t('Bridge (Anyswap)'),
-        href: 'https://movr.anyswap.exchange/#/bridge',
+        label: t('Bridge (Metis)'),
+        href: 'https://bridge.metis.io/home',
       },
       // {
       //   label: t('Exchange'),
